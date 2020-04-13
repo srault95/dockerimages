@@ -1,0 +1,32 @@
+Django
+django-environ
+django-extensions
+django-filter
+django-cryptography
+django-select2
+django-model-utils
+django-bootstrap4
+whitenoise
+rollbar
+gunicorn
+
+# Django DRF
+djangorestframework
+dj-database-url
+django-cors-headers
+djoser
+drf-yasg
+
+# PostgreSQL
+psycopg2-binary
+psycogreen
+django-db-geventpool
+
+# Redis
+django-q
+hiredis
+django-redis-cache
+
+pytest-django
+django-dynamic-fixture
+
