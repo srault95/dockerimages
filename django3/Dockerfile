@@ -1,4 +1,4 @@
-FROM srault95/python3:latest
+FROM srault95/dockerimages:alpine-python3
 
 WORKDIR /code
 
